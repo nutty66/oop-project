@@ -6,6 +6,6 @@ application title
 - technology: [pygame/streamlit]
 - application description:
 
-* presentation: [slide/canva/etc..] link [public/ubu]
-* video: link [public/ubu]
+* presentation:https://www.canva.com/design/DAFGB9UdsiU/RvkAj2UN6ji90mCXYcQOWg/view
+* video: https://drive.google.com/drive/folders/1riMqxRRHIVaJv1TtvJLoc9ML3CTPb8q0?usp=sharing
  xoxoxo
